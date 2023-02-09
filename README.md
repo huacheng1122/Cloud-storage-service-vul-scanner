@@ -1,2 +1,9 @@
 # Cloud-storage-service-vul-scanner
-Cloud storage service vul scanner
+
+本工具是为白帽子以及企业相关人员提供了关于主流云存储服务安全漏洞的自动化挖掘以及检测。  作者：花城
+
+坚决反对利用该工具进行非法测试或恶意攻击行为，一切后果自行承担，推荐大家在了解技术原理的前提下，共同维护信息安全、网络
+
+安全！！！
+
+> 工具环境：python3
